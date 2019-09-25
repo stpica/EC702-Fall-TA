@@ -1,0 +1,4 @@
+\beamer@endinputifotherversion {3.36pt}
+\beamer@sectionintoc {1}{The Solow Growth Model, discrete time}{4}{0}{1}
+\beamer@sectionintoc {2}{The Solow Growth Model, continuous time}{5}{0}{2}
+\beamer@sectionintoc {3}{Solow with two Types of Capital}{10}{0}{3}
