@@ -94,7 +94,7 @@ disp(' ')
 for vfit = 1:vfmaxit
     %form Bellman equation
     RHSMAT = Rmat + beta * repmat(Vold',dnum,1);
-   	[V, dprimeind] = max(-RHSMAT,[],2);
+   	[V, dprimeind] = min(RHSMAT,[],2);
     absdiff = abs(V-Vold);
     vferr = max(absdiff); %maximum absolute error
     if (mod(vfit,25)==1) %show print every 25 steps of the loop
