@@ -10,4 +10,5 @@ Discussion 4: Matlab codes to solve the deterministic "reaching the center" prob
 
 Discussion 5: Matlab codes to solve the deterministic Ramsey growth model and the "cake eating" problem (which is a specific case of the Ramsey model). Both problems are solved using value function iteration.
 
+Discussion 6: Matlab codes to solve the deterministic Ramsey growth model with endogenous labor. This is done using VFI and two alternative methods are presented to solve the model. Two more codes solve for the transition from a steady-state to a new one after a change in the parameters, in particular labor share and TFP.
 
