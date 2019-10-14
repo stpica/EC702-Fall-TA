@@ -59,8 +59,8 @@ lnum=250;
 L0=linspace(lmin,lmax,lnum);
 
 [kp, k, l]=meshgrid(K0, K0, L0); %current k is row, tomorrow k column, employment is l var (third dimension)
-% cutkp=kp(:,:,2);
-% cutl=squeeze(l(2,:,:));
+cutkp=kp(:,:,2);
+cutl=squeeze(l(2,:,:));
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%% THIS BLOCK SETS UP AND SOLVES THE VALUE FUNCTION %%%%%%%%%%%%
