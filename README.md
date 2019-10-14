@@ -12,3 +12,5 @@ Discussion 5: Matlab codes to solve the deterministic Ramsey growth model and th
 
 Discussion 6: Matlab codes to solve the deterministic Ramsey growth model with endogenous labor. This is done using VFI and two alternative methods are presented to solve the model. Two more codes solve for the transition from a steady-state to a new one after a change in the parameters, in particular labor share and TFP.
 
+Discussion 7: Matlab codes to solve the continuous time Neoclassical growth model with and without endogenous labor. We use a procedure called Relaxation method, following Trimborn, Koch and Steger (2008).
+
