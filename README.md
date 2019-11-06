@@ -14,7 +14,12 @@ Discussion 6: Matlab codes to solve the deterministic Ramsey growth model with e
 
 Discussion 7: Matlab codes to solve the continuous time deterministic Neoclassical growth model with and without endogenous labor. We use a procedure called "Relaxation method", following Trimborn, Koch and Steger (2008).
 
+Discussion 8: Theory of Markov Chains from LS. Theory of Dynamic Programming without uncertainty.
+
+Discussion 9: Theory of Dynamic Programming with uncertainty:iid case and persistent case.
+
+Discussion 10: Some theory on the HP filter and how it compares with other filters. Codes to HP filter the US gdp series. Codes to solve an RBC model in Dynare. Compute and plot moments from simulated moments.
 
 
 
-Note: All the codes in the computational classes are written in Matlab. The credits for the codes go mostly to Pascual Restrepo and Stephen Terry.
+Note: All the codes in the computational classes are written in Matlab (RBC model in Dynare). The credits for the codes go mostly to Pascual Restrepo and Stephen Terry.
