@@ -29,7 +29,9 @@ fsizenum = 14; %font size on graphs
 
 figure %plot raw GDP data
 plot(date,gdp,'b','LineWidth',lwidnum)
-recessionplot
+hBands = recessionplot;
+set(hBands,'FaceColor','r','FaceAlpha',0.4)
+%recessionplot
 ylabel('gdp'), xlabel('time')
 axis tight
 title('Raw GDP Data')
@@ -40,7 +42,9 @@ set(gca,'FontSize',fsizenum)
 figure %plot gdp, trend, and cyclical component
 subplot(1,2,1)
 plot(date,lgdp,'b',date,trend,'r','LineWidth',lwidnum)
-recessionplot
+hBands = recessionplot;
+set(hBands,'FaceColor','r','FaceAlpha',0.4)
+%recessionplot
 ylabel('gdp'), xlabel('time')
 axis tight
 legend('Log GDP','Trend')
@@ -50,7 +54,9 @@ title('Log GDP and Trend')
 
 subplot(1,2,2)
 plot(date,100*cyclical, 'b',date,zerline,'k','LineWidth',lwidnum)
-recessionplot
+hBands = recessionplot;
+set(hBands,'FaceColor','r','FaceAlpha',0.4)
+%recessionplot
 ylabel('gdp'), xlabel('time')
 axis tight
 title('Cyclical Component of GDP')
