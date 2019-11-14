@@ -20,6 +20,7 @@ Discussion 9: Theory of Dynamic Programming with uncertainty:iid case and persis
 
 Discussion 10: Some theory on the HP filter and how it compares with other filters. Codes to HP filter the US gdp series. Codes to solve an RBC model in Dynare. Compute and plot moments from simulated moments.
 
+Discussion 11: Matlab codes to solve an RBC model using VFI. We also compute the ergodic distribution and get RCB moments.
 
 
 Note: All the codes in the computational classes are written in Matlab (RBC model in Dynare). The credits for the codes go mostly to Pascual Restrepo and Stephen Terry.
