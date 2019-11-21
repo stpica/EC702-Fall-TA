@@ -22,5 +22,6 @@ Discussion 10: Some theory on the HP filter and how it compares with other filte
 
 Discussion 11: Matlab codes to solve an RBC model using VFI. We also compute the ergodic distribution and get RCB moments.
 
+Discussion 12: Matlab codes to solve the Aiyagari model both in PE and in GE. The households problem is solved with the endogenous grid method and non-stochastic simulation method. We also simulate the model and compute moments.
 
 Note: All the codes in the computational classes are written in Matlab (RBC model in Dynare). The credits for the codes go mostly to Pascual Restrepo and Stephen Terry.
