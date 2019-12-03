@@ -24,6 +24,6 @@ Discussion 11: Matlab codes to solve an RBC model using VFI. We also compute the
 
 Discussion 12: Matlab codes to solve the Aiyagari model both in PE and in GE. The households problem is solved with the endogenous grid method and non-stochastic simulation method. We also simulate the model and compute moments.
 
-Discussion 13: Matlab codes to solve a firm model a la Hopenhayn. The codes use VFI to get policy functions and a non-stochastic simulation method to get the stationary distribution. We finally simulate the model and compute simulated volatilities and correlation matrices.
+Discussion 13: Matlab codes to solve a firm model a la Hopenhayn both in PE and GE. The codes use VFI to get policy functions and a non-stochastic simulation method to get the stationary distribution. We finally simulate the model and compute simulated volatilities and correlation matrices.
 
 Note: All the codes in the computational classes are written in Matlab (RBC model in Dynare). The credits for the codes go mostly to Pascual Restrepo and Stephen Terry.
