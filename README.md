@@ -26,4 +26,4 @@ Discussion 12: Matlab codes to solve the Aiyagari model both in PE and in GE. Th
 
 Discussion 13: Matlab codes to solve a firm model a la Hopenhayn both in PE and GE. The codes use VFI to get policy functions and a non-stochastic simulation method to get the stationary distribution. We finally simulate the model and compute simulated volatilities and correlation matrices.
 
-Note: All the codes in the computational classes are written in Matlab (RBC model in Dynare). The credits for the codes go mostly to Pascual Restrepo and Stephen Terry.
+Note: All the codes in the computational classes are written in Matlab (RBC model in Dynare). The credits for the codes are shared with Pascual Restrepo and Stephen Terry.
